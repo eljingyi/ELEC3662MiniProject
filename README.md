@@ -1,1 +1,1 @@
-# ELEC3662MiniProject
+# ELEC3662 Mini Project
