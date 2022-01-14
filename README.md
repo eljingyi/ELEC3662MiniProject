@@ -97,7 +97,22 @@ Keypad
 |Not shifted| ![image](https://user-images.githubusercontent.com/81463065/149395271-f3e538ff-b514-45f6-a85b-10b48d2d3343.png) | When no values are pressed, when the `=/EXIT` button is pressed, there would be a prompt to ask if the user wants to leave the calculator page.|
 |Shifted | ![image](https://user-images.githubusercontent.com/81463065/149392702-4978b4a7-d9cc-4534-93f9-f5c0dd385952.png)| The symbols highlighted in grey could only be accessed after the shift button is pressed, which would be indicated by `^` on the LCD display screen|
 
-*The functions of each symbols in the keypad are explained in section 1
+*The functions of each symbols in the keypad are explained in section 1*
+
+The following are some examples of my calculator alongside with a scientific calculator to prove that the calculation is accurate for both integer values and decimal values 
+
+| Multiplication| Sum | No operators|
+|:---:|:---:|:---:|
+|![multiplication](https://user-images.githubusercontent.com/81463065/149521272-7c01a0cc-6110-41a7-8d27-2a190900c4f4.jpg)|![sum](https://user-images.githubusercontent.com/81463065/149521383-be26bd70-f0ea-4908-a25b-f9db00e0056e.jpg) | ![no operators](https://user-images.githubusercontent.com/81463065/149521302-eb6d5ad1-f345-4bcd-a3ed-47a3c3d3e8c2.jpg)|
+
+
+| Multiple operators example 1 | Multiple operators example 2 | No operators|
+|--|--|--|
+|![two operators](https://user-images.githubusercontent.com/81463065/149521455-ee03a4a4-4037-489d-8c03-2de6a61c6fe4.jpg)| ![two operations](https://user-images.githubusercontent.com/81463065/149521459-d33dd381-bb2d-47d6-b1a5-507fb15e535b.jpg)| ![undefined](https://user-images.githubusercontent.com/81463065/149522724-381f9c60-bd6a-45c7-bc09-3974ee8e1fc6.jpg)|
+
+
+Video demonstration of calculation:
+https://user-images.githubusercontent.com/81463065/149522809-88304d37-1817-48f5-a2e0-0837e2515d71.mp4
 
 
 
@@ -122,17 +137,27 @@ LED lights of the microcontroller is used to indicate which page user is current
 Graphics 
 --------
 
-|Login page | User Input | Calculator | Shutting Down | Main Menu | Contrast | 
-|-----------|-----------|-------------|--------------|-----------|------|
-| 
+Password 
 
+![password](https://user-images.githubusercontent.com/81463065/149518657-cc054e34-5ee2-4043-a9cb-f6699df56420.gif)
 
+Set new password
 
 ![Set new](https://user-images.githubusercontent.com/81463065/149518654-da31ccb1-3a51-4d28-93e0-ebd64a7595f1.gif)
 
+Input Name
 
 ![name](https://user-images.githubusercontent.com/81463065/149520134-602e9f5b-b709-423a-8f8f-c6c8f7d49c1a.gif)
 
-![password](https://user-images.githubusercontent.com/81463065/149518657-cc054e34-5ee2-4043-a9cb-f6699df56420.gif)
-![contrast](https://user-images.githubusercontent.com/81463065/149519056-b6ed77bd-3edb-4ee1-a985-b2421e6e9a23.gif)
+Loading
+
+![loading](https://user-images.githubusercontent.com/81463065/149524842-a6029d1b-ca83-40a9-aab1-f994b8a1a3fb.gif)
+
+Shutting Down
+
+![shutting dow](https://user-images.githubusercontent.com/81463065/149524864-a0cf7867-bc4c-4cc0-ab01-7996caf334ce.gif)
+
+Contrast
+
+![contrast](https://user-images.githubusercontent.com/81463065/149519056-b6ed77bd-3edb-4ee1-a985-b2421e6e9a23.gif)|
 
